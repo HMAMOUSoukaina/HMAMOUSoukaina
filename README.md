@@ -5,10 +5,13 @@
 ---
 
 📫 **Follow me @ :**  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soukaina-hmamou-059514243/)
 
 🌐 **Visit my Portfolio:**  
-[![Portfolio](https://hmamousoukaina.github.io/MyPortfolio/) <!-- Replace with your actual portfolio link -->
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=portfolio&logoColor=white)](https://hmamousoukaina.github.io/MyPortfolio/)
+
 
 ---
 
